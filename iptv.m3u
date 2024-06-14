@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="",Good 2
+#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="General",Good 2
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="",Beautiful Life TV
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="General",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="General",Good TV
 https://live.streamingfast.net/osmflivech1.m3u8
@@ -9,7 +9,7 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="News",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="General",Taiwan Plus TV
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Entertainment",Taiwan Plus TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="Entertainment",Genius Go Go Go
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="TNHK.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="General",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="NHK_World_Premium.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="General",NHK_World_Premium
+#EXTINF:-1 tvg-id="NHK_World_Premium.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="News",NHK_World_Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="News",SET iNEWS
@@ -48,13 +48,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",东森新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="shop",MOMO 1台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shop",MOMO 1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="shop",MOMO 2台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shop",MOMO 2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",台湾财经
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",信大https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",DW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",中视新闻
@@ -140,17 +141,17 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NHK
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kid",YOYO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",YOYO
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="Kid",卡通1台
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="Kids",卡通1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="Kid",卡通2台
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="Kids",卡通2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kid",卡通3台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",卡通3台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kid",卡通4台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",卡通4台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kid",卡通5台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",卡通5台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
@@ -172,7 +173,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",MUSIC
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",台湾 PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",台湾 PLUS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Feratel
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
@@ -186,7 +187,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",寰宇财经台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="General",NOW
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="News",Fox News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 
 
