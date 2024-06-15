@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/kenny2u/hometv/iptv/TV10.m3u8
 https://raw.githubusercontent.com/kenny2u/hometv/iptv/TV11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="娱乐",華視戲劇頻道
 https://raw.githubusercontent.com/kenny2u/hometv/iptv/TV12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",ANN News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新聞",ANN News
 #EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",中天亞洲台
 https://raw.githubusercontent.com/kenny2u/hometv/iptv/TV13.m3u8
 #EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",Al Jazeera Arabic
