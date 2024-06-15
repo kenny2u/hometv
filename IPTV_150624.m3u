@@ -203,10 +203,31 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
 https://raw.githubusercontent.com/kenny2u/hometv/iptv/TV200.m3u8
 
 
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="新聞",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="娱乐",大愛1臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="娱乐",大愛2臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="大众",大立 TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",镜新聞
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",中视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="新聞",民视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 tvg-id="TVB.hk" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="新聞",TVB News
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 
-
-
+#EXTINF:-1 tvg-id="TNHK.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="娱乐",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-id="NHK_World_Premium.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="新聞",NHK_World_Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
