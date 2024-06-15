@@ -88,3 +88,4 @@ TV87,東森購物台CH34
 TV88,InquizeX  
 TV89,8world  
 TV90,倪珍24小時播新聞  
+TV200,日本富士台
