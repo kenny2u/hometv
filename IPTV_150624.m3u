@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 tvg-id="TV" tvg-logo="" group-title="購物",東森購物台CH46
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新聞",LIVE NOW
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新聞",CCTV 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
 
@@ -231,3 +231,41 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="NHK_World_Premium.jp" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="新聞",NHK_World_Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-id="F01" tvg-name="FOX News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="新聞",FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="" group-title="新聞",日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="新聞",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="新聞",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="新聞",凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="新聞",凤凰资讯
+http://113.64.145.91:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="新聞",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="新聞",CNN
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="新聞",BBC
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="体育",SKY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="新聞",SKY NEWS
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS world" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="新聞",KBS world
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="体育",FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
+
+
+
+
