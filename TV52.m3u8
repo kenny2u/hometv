@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718446455/ei/FxVtZq3wNOK0kucPtdOlwA8/ip/172.177.68.31/id/XWq5kBlakcQ.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qlsnrl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2hzHoP00kvd_16haavgu1oFt9cH_HyTU_bkhbJbGkas5Zh5W1d_eqjG0lo/vprv/1/playlist_type/DVR/mh/W6/mm/44/mn/sn-p5qlsnrl/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1718424223/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgGSzSl1sQ5ZIo3Eoi3NR5uRPXARUfQY_bBZ94SAO1-PYCIQCCeuqqB09YeW1ff2X0BduwUMwZz-AkDzex8a1l0BbTag%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhALP5mBVnvxbX0jHDI0T5KwB_6P-bXBd5T5-D0f6vV2hiAiEAnnNeJSV-hy6LB0QPicCR7CE7Czy_k70B6irl7LKF5ZY%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
