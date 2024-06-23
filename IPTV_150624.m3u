@@ -298,7 +298,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
  http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS 
  http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/1.m3u8 
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视频道",CCTV-10 科教 
- http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8 
+ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8 
  http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS 
  http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8 
 #EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="央视频道",CCTV-11 戏曲 
