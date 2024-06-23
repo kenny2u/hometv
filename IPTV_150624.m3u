@@ -212,7 +212,8 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="大众",大立 TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS3
@@ -227,11 +228,35 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS9
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs09
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS12
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS18
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS19
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS20
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS21
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS22
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS23
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS24
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS25
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS26
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS27
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="日本",BS28
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 
 
 
