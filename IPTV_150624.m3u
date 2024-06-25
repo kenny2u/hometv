@@ -2,10 +2,7 @@
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中视新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
@@ -52,13 +49,8 @@ Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
 Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 CNA News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 YOYO,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
@@ -95,37 +87,68 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 大愛2臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大立 TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 镜新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
-民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 NHK_World_Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+
+
+
+
 
 日本频道,#genre#
-BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+GD1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+GD2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+GD3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+GD4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+GD5,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+GD6,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+GD7,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+GD8,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+GD9,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd09
+GD10,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd10
+GD11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd11
+GD12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd12
+
+
+
+
+
+
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 BS2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-BS3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-BS4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-BS5,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-BS6,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-BS7,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-BS8,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS-TV东,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BS富士,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+WOWOW CINEMA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+BS STAR,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 BS11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-BS12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-BS15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-BS18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-BS19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-BS20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-BS21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-BS22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-BS23,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-BS24,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-BS25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+WOWOW PRIME,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+ANIMAX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+JSPORTS-1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+JSPORTS-2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+WOWOW LIVE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+JSPORTS-3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+JSPORTS-4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+BS MOVIE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+DISNEY CHANNEL,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+S CHANNEL FISHING,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 BS26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
