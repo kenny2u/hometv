@@ -742,8 +742,7 @@ ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 SP_0204,#genre#
 💖驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-💖奧視🔞
-,http://125.227.210.55:8917/VideoInput/play.ts
+💖奧視🔞,http://125.227.210.55:8917/VideoInput/play.ts
 🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
 
