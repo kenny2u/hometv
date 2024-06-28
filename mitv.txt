@@ -745,6 +745,15 @@ SP_0204,#genre#
 LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+
+奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+💖TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
+💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
+💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
+💖PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
+
+
+
 香蕉台,P2p://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
 松视1台,P2p://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
 松视2台,P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
