@@ -12,3 +12,11 @@ HAPPY,P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
 JStar极限台,P2p://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
 K,P2p://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
 PLAYBOY,P2p://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
+Miami TV Latino (18+),http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
+Babestation(18+),http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8
+驚豔,tvbus://12A5bEpUCFgdMymRKV6Pt2B1aa73T3dgQ4RpnRs79XDmsC8z4bZ
+樂活,tvbus://12LeSgDioVBoEhqojnrZwksGCgEJZdTove5ArEHzLBoZB1FTgY4
+舒活,tvbus://1tTzQsd1BtHiUekzgKfBZAmWTutYusa8hEikfqLm2YjGYsuRqX
+无名台1,http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8
+无名台2,http://studio1.vntvstudios.com:5380/live/MainStudio1.m3u8
+无名台3,http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
