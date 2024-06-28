@@ -739,7 +739,7 @@ HBO TV,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 ThrillTV,mitv://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
 ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 
-SP_2040,#genre#
+SP_0204,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
 彩虹电影台,P2p://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
 LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
@@ -749,8 +749,6 @@ LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 松视2台,P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
 松视3台,P2p://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
 HAPPY,P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-
-你的蕉,#genre#
 RedTraffic Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 RedTraffic Russian,http://live.redtraffic.xyz/russian.m3u8
