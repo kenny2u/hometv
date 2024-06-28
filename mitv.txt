@@ -751,6 +751,8 @@ LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
 💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
 💖PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
+💖HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
+
 
 
 
