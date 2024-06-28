@@ -739,7 +739,7 @@ HBO TV,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 ThrillTV,mitv://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
 ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 
-你的鲍鱼,#genre#
+SP_2040,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
 彩虹电影台,P2p://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
 LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
