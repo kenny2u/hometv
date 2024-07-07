@@ -280,8 +280,10 @@ CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 博斯運動(B),P2p://generationnexxxt.com:19806/1fded122b4b74670b6012a8068e44766
 博斯無限台(B),P2p://generationnexxxt.com:19806/d0a027824de144fd88aef46f0fba7c99
 WARNER TV(B),P2p://generationnexxxt.com:19806/f613ad7c2e684a3599566ad2405d9c6e
-
-
+大馬P2p,#genre#
+TVB翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+Astro 欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
+八度空间,P2p://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
 
 台灣(mitv),#genre#
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
